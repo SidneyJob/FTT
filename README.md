@@ -3,9 +3,9 @@
 
 ## About
 
-Created by: SidneyJob
-Links: https://t.me/SidneyJobChannels
-Source Code: https://github.com/
+- Created by: SidneyJob
+- Links: https://t.me/SidneyJobChannels
+- Source Code: https://github.com/
 
 ## List of all available commands
 
@@ -132,7 +132,7 @@ You can read more here: [Link](https://pypi.org/project/uploadserver/)
 
 #### Example
 ```bash
-./ftt.py -a ftp -p 4444 -b "0.0.0.0" -d /home/user
+./ftt.py -a simple_srv -d /tmp/files -b 0.0.0.0 -p 8080
 ```
 ![SIMPLE HTTP SERVER](./img/simple_srv.png)
 
